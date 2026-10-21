@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```bash
 python run_pipeline.py "Washington crossed the Delaware River before the Battle of Trenton." \
-    --no-graph-rerank --limit 10 
+    --no-trf-rerank --limit 10 
 ```
 
 ## Evaluation
