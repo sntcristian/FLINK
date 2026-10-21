@@ -1,0 +1,9 @@
+Summary
+  documents               : 131
+  mentions                : 3781
+  mapped to a QID         : 3771
+  Wikipedia page, no QID  : 10
+  no link (NIL in source) : 0
+  non-Wikipedia link      : 0
+  unique QIDs             : 1144
+  tokens (whitespace)     : 46456

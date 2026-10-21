@@ -1,0 +1,10 @@
+spacy
+sentence-transformers
+networkx
+torch
+torchvision
+numpy
+pandas
+requests
+# spaCy OntoNotes models (pick the one used in the ablation):
+#   python -m spacy download en_core_web_lg
